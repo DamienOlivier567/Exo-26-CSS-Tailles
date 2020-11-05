@@ -1,0 +1,50 @@
+body{
+    color: coral;
+}
+a{
+    text-decoration: none;
+    color: red;
+}
+#P1{
+    text-shadow: 2px 2px 4px black;
+    padding: 20px 20px 20px 20px;
+    margin: 15px 15px 15px 15px;
+}
+#id1{
+    font-style: oblique;
+}
+#id2{
+    font-style: italic;
+}
+#ID3{
+    font-weight: bold;
+}
+#ID4{
+    font-weight: bold;
+}
+#P2{
+    padding: 20px 20px 20px 20px;
+    margin: 15px 15px 15px 15px;
+}
+#P3{
+    padding: 20px 20px 20px 20px;
+    margin: 15px 15px 15px 15px;
+}
+#P4{
+    padding: 20px 20px 20px 20px;
+    margin: 15px 15px 15px 15px;
+}
+a:hover{
+    cursor:progress;
+}
+.cadre{
+    float: right;
+    border: 1px solid black;
+    width: 500px;
+    height: 300px;
+    text-shadow: 2px 2px 4px black;
+}
+
+
+
+
